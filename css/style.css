@@ -1,0 +1,76 @@
+.navbar-brand img {
+    margin-left: 40%;
+}
+
+  .nav-link::after {
+    content: "";
+    display: block;
+    width: 0;
+    height: 2px;
+    background: blue;
+    transition: width 0.3s;
+  }
+  
+  .nav-link:hover::after {
+    width: 100%;
+    transition: width 0.3s;
+  }
+  
+
+.img-fluid {
+
+    height: 22rem;
+    width: 250rem;
+    object-fit: cover;
+    /* margin-right: 30px; */
+}
+
+
+.card-title ,.card-text {
+    text-align: center;
+
+}
+
+.card-text h6 {
+    font-size: 44px;
+}
+
+
+.card {
+
+    width:80%;
+}
+
+p {
+    height: 10px;
+    line-height: 20px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
