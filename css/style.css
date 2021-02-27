@@ -53,28 +53,80 @@ p {
   font-size: 30px;
 }
 
+.row {
+
+  margin-left: 15%;
+  margin-right: 20px;;
+}
+
+.card-3-img{
+  height: 150px;
+  /* width: auto; */ 
+}
+
+.cardtitle{
+  left: 30;
+  color:#0275d8;
+    /* top: 20px;
+    text-align: center; */
+}
+.vl-4{
+  border-left: 4px solid  #0275d8;
+  height: 92px;
+  white-space: nowrap ;
+}
+.vl-2{
+  border-left: 4px solid  #0275d8;
+  height: 44px;  
+}
+.vl-3 {
+  border-left: 4px solid  #0275d8;
+  height: 70px;
+}
+.vl-txt  h6{
+  left: 30px;
+  font-size:15px;
+  font-weight: 150;
+}
+
+.emp-name {
+  text-align: center;
+}
+.roll {
+  text-align: center;
+  color:gray;
+}
 
 
+.card-4-img{
+  height: 240px;
+  /* width: auto; */ 
+}
 
+.icons {
+  justify-content: center;
+}
 
+.info  b{
+  padding-left:- 70px;
+}
 
+.bg  img{
+  /* position: relative; */
+  /* margin-top: -10%; */
+width: 100%;
+  /* Full height */
+  height: 80%; 
 
+;
+  /* Center and scale the image nicely */
 
+}
 
+.overlayout {
+  margin-right: 90px;
+  position: relative;
+  margin-bottom: -10%;
+  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
